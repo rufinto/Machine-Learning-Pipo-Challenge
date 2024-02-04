@@ -1,6 +1,7 @@
 # Machine-Learning-Pipo-Challenge
 
-you can clone the projet and add the dataset (folder: cells images) that you can dowload with the link below.
+you can clone the projet with the link: https://github.com/rufinto/Machine-Learning-Pipo-Challenge.git
+then add the dataset (folder: cells images) that you can dowload with the link below.
 
 Download the dataset at: https://drive.google.com/file/d/1T8UU_AwaoMJOKdLgPWlGjii8Nci54vNP/view?usp=sharing
 it's a link to my google drive with the complete projet (include files present in this repository). So unzip the file and add the folder cells images.
